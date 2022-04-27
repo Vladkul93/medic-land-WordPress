@@ -1,0 +1,81 @@
+Log created: 2022-04-13 13:34:18
+Type: backup
+[2022-04-13 13:34:18][notice]Start backing up.
+[2022-04-13 13:34:18][notice]server info fcgi:Off max execution time: 900 wp version:5.9.3 php version:7.4.21 db version:8.0.24 php ini:safe_mode: memory_limit:256M memory_get_usage:49,86 МБ memory_get_peak_usage:50,63 МБ extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2022-04-13 13:34:18][notice]Prepare to backup backup_db files.
+[2022-04-13 13:34:18][notice]Start exporting database.
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_commentmeta
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_comments
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_links
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_options
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_postmeta
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_posts
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_term_relationships
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_term_taxonomy
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_termmeta
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_terms
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_usermeta
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_users
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_wpvivid_scan_result
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_wpvivid_unused_uploads_files
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_yoast_indexable
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_yoast_indexable_hierarchy
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_yoast_migrations
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_yoast_primary_term
+[2022-04-13 13:34:18][notice]Preparing to dump table wp_yoast_seo_links
+[2022-04-13 13:34:18][notice]Exporting database finished.
+[2022-04-13 13:34:18][notice]Start compressing backup_db
+[2022-04-13 13:34:18][notice]Prepare to zip files. file: medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_db.zip
+[2022-04-13 13:34:18][notice]Adding zip files completed.medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_db.zip, filesize: 459,81 КБ
+[2022-04-13 13:34:18][notice]Compressing backup_db completed
+[2022-04-13 13:34:18][notice]Backing up backup_db completed.
+[2022-04-13 13:34:18][notice]Prepare to backup backup_themes files.
+[2022-04-13 13:34:18][notice]File number: 42
+[2022-04-13 13:34:18][notice]Start compressing backup_themes
+[2022-04-13 13:34:18][notice]Prepare to zip files. file: medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_themes.zip
+[2022-04-13 13:34:19][notice]Adding zip files completed.medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_themes.zip, filesize: 1,68 МБ
+[2022-04-13 13:34:19][notice]Compressing backup_themes completed
+[2022-04-13 13:34:19][notice]Backing up backup_themes completed.
+[2022-04-13 13:34:19][notice]Prepare to backup backup_plugin files.
+[2022-04-13 13:34:19][notice]File number: 2913
+[2022-04-13 13:34:19][notice]Start compressing backup_plugin
+[2022-04-13 13:34:20][notice]Prepare to zip files. file: medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_plugin.zip
+[2022-04-13 13:34:25][notice]Adding zip files completed.medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_plugin.zip, filesize: 34,63 МБ
+[2022-04-13 13:34:25][notice]Compressing backup_plugin completed
+[2022-04-13 13:34:25][notice]Backing up backup_plugin completed.
+[2022-04-13 13:34:25][notice]Prepare to backup backup_uploads files.
+[2022-04-13 13:34:25][notice]File number: 39
+[2022-04-13 13:34:25][notice]Start compressing backup_uploads
+[2022-04-13 13:34:25][notice]Prepare to zip files. file: medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_uploads.zip
+[2022-04-13 13:34:25][notice]Adding zip files completed.medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_uploads.zip, filesize: 1,43 МБ
+[2022-04-13 13:34:25][notice]Compressing backup_uploads completed
+[2022-04-13 13:34:25][notice]Backing up backup_uploads completed.
+[2022-04-13 13:34:25][notice]Prepare to backup backup_content files.
+[2022-04-13 13:34:25][notice]File number: 109
+[2022-04-13 13:34:25][notice]Start compressing backup_content
+[2022-04-13 13:34:25][notice]Prepare to zip files. file: medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_content.zip
+[2022-04-13 13:34:26][notice]Adding zip files completed.medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_content.zip, filesize: 5,12 МБ
+[2022-04-13 13:34:26][notice]Compressing backup_content completed
+[2022-04-13 13:34:26][notice]Backing up backup_content completed.
+[2022-04-13 13:34:26][notice]Prepare to backup backup_core files.
+[2022-04-13 13:34:26][notice]File number: 2378
+[2022-04-13 13:34:26][notice]Start compressing backup_core
+[2022-04-13 13:34:27][notice]Prepare to zip files. file: medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_core.zip
+[2022-04-13 13:34:34][notice]Adding zip files completed.medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_core.zip, filesize: 47,17 МБ
+[2022-04-13 13:34:34][notice]Compressing backup_core completed
+[2022-04-13 13:34:34][notice]Backing up backup_core completed.
+[2022-04-13 13:34:34][notice]Prepare to backup backup_merge files.
+[2022-04-13 13:34:34][notice]File number: 6
+[2022-04-13 13:34:34][notice]Start compressing backup_merge
+[2022-04-13 13:34:34][notice]Prepare to zip files. file: medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_all.zip
+[2022-04-13 13:34:37][notice]Adding zip files completed.medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_all.zip, filesize: 28,27 МБ
+[2022-04-13 13:34:37][notice]Cleaned up file, filename: D:\OpenServer\domains\medi-lab/wp-content\wpvividbackups\medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_core.zip
+[2022-04-13 13:34:37][notice]Cleaned up file, filename: D:\OpenServer\domains\medi-lab/wp-content\wpvividbackups\medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_plugin.zip
+[2022-04-13 13:34:37][notice]Cleaned up file, filename: D:\OpenServer\domains\medi-lab/wp-content\wpvividbackups\medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_content.zip
+[2022-04-13 13:34:37][notice]Cleaned up file, filename: D:\OpenServer\domains\medi-lab/wp-content\wpvividbackups\medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_themes.zip
+[2022-04-13 13:34:37][notice]Cleaned up file, filename: D:\OpenServer\domains\medi-lab/wp-content\wpvividbackups\medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_uploads.zip
+[2022-04-13 13:34:37][notice]Cleaned up file, filename: D:\OpenServer\domains\medi-lab/wp-content\wpvividbackups\medi-lab_wpvivid-6256a72a10015_2022-04-13-13-34_backup_db.zip
+[2022-04-13 13:34:37][notice]Compressing backup_merge completed
+[2022-04-13 13:34:37][notice]Backing up backup_merge completed.
+[2022-04-13 13:34:37][notice]Backup completed.
+[2022-04-13 13:34:37][notice]Backup succeeded.
